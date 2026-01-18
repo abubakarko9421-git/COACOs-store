@@ -27,7 +27,7 @@
     <h2>Order Now</h2>
     <p>Click the button below to order via WhatsApp</p>
 
-    <a class="btn" href="https://wa.me/234XXXXXXXXXX" target="_blank">
+    <a class="btn" href="https://wa.me/2349122629588" target="_blank">
       Order on WhatsApp
     </a>
   </section>
